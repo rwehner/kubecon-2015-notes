@@ -1,4 +1,5 @@
-== To Think more about
+To Think more about
+===================
 
 There was a lot of great stuff, but these things made made me want to do a bit more research. In no particular order...
 
@@ -42,3 +43,4 @@ There was a lot of great stuff, but these things made made me want to do a bit m
 == random
 * "don't use static configs to track a dynamic infra."
 * Use [Tinc](http://www.tinc-vpn.org/) for VPNs
+* Watch this [SRE video](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
